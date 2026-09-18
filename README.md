@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./profile/intro-card.svg?v=1" width="100%" alt="Fahad Ur Rehman professional Data Scientist profile card" />
+  <img src="./profile/intro-card.svg?v=3" width="100%" alt="Fahad Ur Rehman professional Data Scientist profile card" />
 </p>
 
 <p align="center">
