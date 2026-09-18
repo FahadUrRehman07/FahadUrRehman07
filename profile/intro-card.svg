@@ -1,49 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Fahad Ur Rehman — AI and Data Science profile</title>
-  <desc id="desc">Terminal-inspired professional profile panel for Fahad Ur Rehman.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Fahad Ur Rehman professional profile dashboard</title>
+  <desc id="desc">A modern light dashboard-style profile card for Fahad Ur Rehman with profile, expertise, technology stack and highlights.</desc>
 
-  <rect x="18" y="18" width="1164" height="264" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
-  <rect x="18" y="18" width="1164" height="42" rx="18" fill="#161b22"/>
-  <rect x="18" y="42" width="1164" height="18" fill="#161b22"/>
+  <rect x="14" y="14" width="1172" height="302" rx="22" fill="#f8fafc" stroke="#dbe4ee" stroke-width="2"/>
+  <rect x="14" y="14" width="1172" height="54" rx="22" fill="#ffffff"/>
+  <line x1="14" y1="68" x2="1186" y2="68" stroke="#e2e8f0" stroke-width="1"/>
 
-  <circle cx="43" cy="39" r="6" fill="#ff5f57"/>
-  <circle cx="64" cy="39" r="6" fill="#febc2e"/>
-  <circle cx="85" cy="39" r="6" fill="#28c840"/>
-  <text x="112" y="44" fill="#8b949e" font-family="monospace" font-size="13">fahad@ai-lab: ~/profile</text>
+  <circle cx="42" cy="41" r="7" fill="#ef4444"/>
+  <circle cx="64" cy="41" r="7" fill="#f59e0b"/>
+  <circle cx="86" cy="41" r="7" fill="#22c55e"/>
+  <text x="112" y="46" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700">FAHAD UR REHMAN  /  PROFESSIONAL PROFILE</text>
+  <text x="1135" y="46" text-anchor="end" fill="#0f766e" font-family="monospace" font-size="12">AI • DATA • RESEARCH</text>
 
-  <line x1="585" y1="78" x2="585" y2="252" stroke="#30363d" stroke-width="1"/>
+  <!-- Profile -->
+  <rect x="34" y="88" width="300" height="202" rx="16" fill="#ffffff" stroke="#dbe4ee"/>
+  <circle cx="94" cy="146" r="43" fill="#e0f2fe" stroke="#38bdf8" stroke-width="2"/>
+  <image href="https://github.com/FahadUrRehman07.png" x="57" y="109" width="74" height="74" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <defs><clipPath id="avatarClip"><circle cx="94" cy="146" r="37"/></clipPath></defs>
 
-  <text x="50" y="91" fill="#58a6ff" font-family="monospace" font-size="13">$ whoami</text>
-  <text x="50" y="121" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">Fahad Ur Rehman</text>
-  <text x="50" y="148" fill="#7ee787" font-family="monospace" font-size="16">Data Scientist • ML Engineer • AI</text>
+  <circle cx="128" cy="177" r="7" fill="#22c55e" stroke="#ffffff" stroke-width="3"/>
+  <text x="151" y="126" fill="#0f172a" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="800">Fahad Ur Rehman</text>
+  <text x="151" y="149" fill="#0284c7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">Data Scientist</text>
+  <text x="151" y="170" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="12">ML • DL • NLP • AI</text>
 
-  <text x="50" y="180" fill="#8b949e" font-family="monospace" font-size="13">$ cat /focus.txt</text>
-  <text x="50" y="205" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="14">Machine Learning  ·  Deep Learning  ·  NLP</text>
-  <text x="50" y="229" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="14">Computer Vision  ·  LLMs  ·  AI Agents</text>
-  <text x="50" y="254" fill="#58a6ff" font-family="monospace" font-size="13">$ build → evaluate → deploy <tspan fill="#7ee787">█</tspan></text>
+  <line x1="55" y1="199" x2="313" y2="199" stroke="#e2e8f0"/>
+  <text x="55" y="220" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700">FOCUS</text>
+  <text x="55" y="240" fill="#0f172a" font-family="Arial,Helvetica,sans-serif" font-size="13">Practical AI &amp; Data Systems</text>
+  <text x="55" y="262" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="11">Research • Engineering • Applied ML</text>
 
-  <text x="620" y="91" fill="#58a6ff" font-family="monospace" font-size="13">$ profile --summary</text>
+  <!-- Expertise -->
+  <rect x="350" y="88" width="405" height="202" rx="16" fill="#ffffff" stroke="#dbe4ee"/>
+  <text x="375" y="116" fill="#0f172a" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">Core Expertise</text>
+  <text x="375" y="137" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="11">Areas I build and learn through projects</text>
 
-  <g transform="translate(620 112)">
-    <rect width="160" height="54" rx="8" fill="#161b22" stroke="#30363d"/>
-    <text x="18" y="22" fill="#8b949e" font-family="monospace" font-size="11">ROLE</text>
-    <text x="18" y="42" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">Data Scientist</text>
+  <g transform="translate(375 153)">
+    <rect width="116" height="34" rx="9" fill="#eff6ff" stroke="#bfdbfe"/>
+    <text x="58" y="22" text-anchor="middle" fill="#1d4ed8" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">Machine Learning</text>
+    <rect x="126" width="116" height="34" rx="9" fill="#f0fdf4" stroke="#bbf7d0"/>
+    <text x="184" y="22" text-anchor="middle" fill="#15803d" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">Deep Learning</text>
+    <rect x="252" width="116" height="34" rx="9" fill="#faf5ff" stroke="#e9d5ff"/>
+    <text x="310" y="22" text-anchor="middle" fill="#7e22ce" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">NLP &amp; LLMs</text>
 
-    <rect x="176" width="160" height="54" rx="8" fill="#161b22" stroke="#30363d"/>
-    <text x="194" y="22" fill="#8b949e" font-family="monospace" font-size="11">DOMAIN</text>
-    <text x="194" y="42" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">AI &amp; Data</text>
+    <rect y="46" width="116" height="34" rx="9" fill="#fff7ed" stroke="#fed7aa"/>
+    <text x="58" y="68" text-anchor="middle" fill="#c2410c" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">Computer Vision</text>
+    <rect x="126" y="46" width="116" height="34" rx="9" fill="#ecfeff" stroke="#a5f3fc"/>
+    <text x="184" y="68" text-anchor="middle" fill="#0e7490" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">AI Agents</text>
+    <rect x="252" y="46" width="116" height="34" rx="9" fill="#f1f5f9" stroke="#cbd5e1"/>
+    <text x="310" y="68" text-anchor="middle" fill="#334155" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">Data Science</text>
   </g>
 
-  <text x="620" y="192" fill="#8b949e" font-family="monospace" font-size="12">core_stack</text>
-  <g transform="translate(620 207)">
-    <rect width="92" height="27" rx="6" fill="#0d1117" stroke="#238636"/>
-    <text x="46" y="18" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="11">Python</text>
-    <rect x="102" width="104" height="27" rx="6" fill="#0d1117" stroke="#238636"/>
-    <text x="154" y="18" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="11">TensorFlow</text>
-    <rect x="216" width="96" height="27" rx="6" fill="#0d1117" stroke="#238636"/>
-    <text x="264" y="18" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="11">PyTorch</text>
+  <text x="375" y="260" fill="#64748b" font-family="monospace" font-size="11">$ workflow</text>
+  <text x="448" y="260" fill="#0f172a" font-family="monospace" font-size="11">explore → model → evaluate → deploy</text>
+
+  <!-- Stack -->
+  <rect x="771" y="88" width="220" height="202" rx="16" fill="#ffffff" stroke="#dbe4ee"/>
+  <text x="795" y="116" fill="#0f172a" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="800">Tech Stack</text>
+  <text x="795" y="137" fill="#64748b" font-family="Arial,Helvetica,sans-serif" font-size="11">Tools &amp; platforms</text>
+
+  <g font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700">
+    <rect x="795" y="151" width="78" height="30" rx="8" fill="#fff7ed"/><text x="834" y="170" text-anchor="middle" fill="#c2410c">Python</text>
+    <rect x="883" y="151" width="78" height="30" rx="8" fill="#eff6ff"/><text x="922" y="170" text-anchor="middle" fill="#1d4ed8">TensorFlow</text>
+    <rect x="795" y="189" width="78" height="30" rx="8" fill="#fef2f2"/><text x="834" y="208" text-anchor="middle" fill="#b91c1c">PyTorch</text>
+    <rect x="883" y="189" width="78" height="30" rx="8" fill="#f0fdf4"/><text x="922" y="208" text-anchor="middle" fill="#15803d">Pandas</text>
+    <rect x="795" y="227" width="78" height="30" rx="8" fill="#f8fafc"/><text x="834" y="246" text-anchor="middle" fill="#334155">SQL</text>
+    <rect x="883" y="227" width="78" height="30" rx="8" fill="#faf5ff"/><text x="922" y="246" text-anchor="middle" fill="#7e22ce">Power BI</text>
   </g>
 
-  <text x="620" y="259" fill="#8b949e" font-family="monospace" font-size="12">status:</text>
-  <text x="680" y="259" fill="#7ee787" font-family="monospace" font-size="12">researching • building • learning</text>
+  <!-- Highlights -->
+  <rect x="1007" y="88" width="159" height="202" rx="16" fill="#0f172a"/>
+  <text x="1029" y="116" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="800">Highlights</text>
+
+  <circle cx="1035" cy="145" r="5" fill="#22c55e"/>
+  <text x="1050" y="149" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700">SleepLiveWell</text>
+  <text x="1050" y="164" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="10">Data Scientist</text>
+
+  <circle cx="1035" cy="193" r="5" fill="#38bdf8"/>
+  <text x="1050" y="197" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700">B.Sc. Computer Science</text>
+  <text x="1050" y="212" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="10">Abasyn University</text>
+
+  <circle cx="1035" cy="241" r="5" fill="#a78bfa"/>
+  <text x="1050" y="245" fill="#e2e8f0" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700">Research</text>
+  <text x="1050" y="260" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="10">NLP • DL • AI</text>
+
+  <rect x="34" y="300" width="1132" height="1" fill="#e2e8f0"/>
 </svg>
