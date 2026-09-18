@@ -2,7 +2,11 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Fahad%20Ur%20Rehman&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=61&descSize=18" alt="Fahad Ur Rehman animated header" />
+  <img src="./profile/hero.svg?v=2" width="100%" alt="Fahad Ur Rehman animated AI and Data Science hero banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&pause=900&color=2C5364&center=true&vCenter=true&width=820&height=45&lines=Data+Scientist+%7C+Machine+Learning+%7C+AI;NLP+%7C+Deep+Learning+%7C+Computer+Vision;LLMs+%7C+AI+Agents+%7C+Data+Driven+Systems" alt="Animated professional tagline" />
 </p>
 
 <p align="center">
