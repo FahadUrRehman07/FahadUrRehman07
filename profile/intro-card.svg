@@ -1,71 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Fahad Ur Rehman — Data Scientist</title>
-  <desc id="desc">Professional profile card for Fahad Ur Rehman focused on Data Science, Machine Learning and AI.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07111f"/>
-      <stop offset="52%" stop-color="#0c2433"/>
-      <stop offset="100%" stop-color="#123e50"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#60a5fa"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="80%" cy="20%" r="70%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".28"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".07"/>
-    </pattern>
-  </defs>
+  <title id="title">Fahad Ur Rehman — AI and Data Science profile</title>
+  <desc id="desc">Terminal-inspired professional profile panel for Fahad Ur Rehman.</desc>
 
-  <rect x="8" y="8" width="1184" height="284" rx="28" fill="url(#bg)" stroke="#2dd4bf" stroke-opacity=".28" stroke-width="2"/>
-  <rect x="8" y="8" width="1184" height="284" rx="28" fill="url(#grid)"/>
-  <rect x="8" y="8" width="1184" height="284" rx="28" fill="url(#glow)"/>
+  <rect x="18" y="18" width="1164" height="264" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="18" y="18" width="1164" height="42" rx="18" fill="#161b22"/>
+  <rect x="18" y="42" width="1164" height="18" fill="#161b22"/>
 
-  <circle cx="1010" cy="80" r="72" fill="#38bdf8" opacity=".10" filter="url(#soft)"/>
-  <circle cx="1080" cy="215" r="54" fill="#a78bfa" opacity=".10" filter="url(#soft)"/>
+  <circle cx="43" cy="39" r="6" fill="#ff5f57"/>
+  <circle cx="64" cy="39" r="6" fill="#febc2e"/>
+  <circle cx="85" cy="39" r="6" fill="#28c840"/>
+  <text x="112" y="44" fill="#8b949e" font-family="monospace" font-size="13">fahad@ai-lab: ~/profile</text>
 
-  <path d="M805 65 C865 30, 925 120, 980 84 S1085 55, 1150 105" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
-  <path d="M820 220 C875 180, 925 235, 990 185 S1090 180, 1160 225" fill="none" stroke="#22d3ee" stroke-opacity=".20" stroke-width="2"/>
-  <g fill="#67e8f9">
-    <circle cx="805" cy="65" r="3"/><circle cx="980" cy="84" r="3"/><circle cx="1150" cy="105" r="3"/>
-    <circle cx="820" cy="220" r="3"/><circle cx="990" cy="185" r="3"/><circle cx="1160" cy="225" r="3"/>
+  <line x1="585" y1="78" x2="585" y2="252" stroke="#30363d" stroke-width="1"/>
+
+  <text x="50" y="91" fill="#58a6ff" font-family="monospace" font-size="13">$ whoami</text>
+  <text x="50" y="121" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">Fahad Ur Rehman</text>
+  <text x="50" y="148" fill="#7ee787" font-family="monospace" font-size="16">Data Scientist • ML Engineer • AI</text>
+
+  <text x="50" y="180" fill="#8b949e" font-family="monospace" font-size="13">$ cat /focus.txt</text>
+  <text x="50" y="205" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="14">Machine Learning  ·  Deep Learning  ·  NLP</text>
+  <text x="50" y="229" fill="#c9d1d9" font-family="Arial,Helvetica,sans-serif" font-size="14">Computer Vision  ·  LLMs  ·  AI Agents</text>
+  <text x="50" y="254" fill="#58a6ff" font-family="monospace" font-size="13">$ build → evaluate → deploy <tspan fill="#7ee787">█</tspan></text>
+
+  <text x="620" y="91" fill="#58a6ff" font-family="monospace" font-size="13">$ profile --summary</text>
+
+  <g transform="translate(620 112)">
+    <rect width="160" height="54" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="22" fill="#8b949e" font-family="monospace" font-size="11">ROLE</text>
+    <text x="18" y="42" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">Data Scientist</text>
+
+    <rect x="176" width="160" height="54" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="194" y="22" fill="#8b949e" font-family="monospace" font-size="11">DOMAIN</text>
+    <text x="194" y="42" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">AI &amp; Data</text>
   </g>
 
-  <rect x="58" y="48" width="126" height="30" rx="15" fill="#0f2f40" stroke="#38bdf8" stroke-opacity=".35"/>
-  <text x="121" y="69" text-anchor="middle" fill="#7dd3fc" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">DATA SCIENTIST</text>
-
-  <text x="58" y="130" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800">FAHAD UR REHMAN</text>
-  <rect x="58" y="148" width="480" height="4" rx="2" fill="url(#accent)"/>
-
-  <text x="58" y="188" fill="#dbeafe" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600">Machine Learning  •  Deep Learning  •  NLP  •  AI</text>
-  <text x="58" y="220" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="15">Building practical AI systems from data — from exploration to deployable applications.</text>
-
-  <g transform="translate(58 246)">
-    <rect width="150" height="28" rx="14" fill="#0f2f40" stroke="#22d3ee" stroke-opacity=".25"/>
-    <text x="75" y="19" text-anchor="middle" fill="#bae6fd" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">NLP &amp; LLMs</text>
-    <rect x="160" width="176" height="28" rx="14" fill="#0f2f40" stroke="#60a5fa" stroke-opacity=".25"/>
-    <text x="248" y="19" text-anchor="middle" fill="#bfdbfe" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">Computer Vision</text>
-    <rect x="346" width="165" height="28" rx="14" fill="#0f2f40" stroke="#a78bfa" stroke-opacity=".25"/>
-    <text x="428" y="19" text-anchor="middle" fill="#ddd6fe" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">AI Agents</text>
+  <text x="620" y="192" fill="#8b949e" font-family="monospace" font-size="12">core_stack</text>
+  <g transform="translate(620 207)">
+    <rect width="92" height="27" rx="6" fill="#0d1117" stroke="#238636"/>
+    <text x="46" y="18" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="11">Python</text>
+    <rect x="102" width="104" height="27" rx="6" fill="#0d1117" stroke="#238636"/>
+    <text x="154" y="18" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="11">TensorFlow</text>
+    <rect x="216" width="96" height="27" rx="6" fill="#0d1117" stroke="#238636"/>
+    <text x="264" y="18" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="11">PyTorch</text>
   </g>
 
-  <g transform="translate(785 145)">
-    <circle cx="0" cy="0" r="58" fill="none" stroke="#38bdf8" stroke-opacity=".18"/>
-    <circle cx="0" cy="0" r="40" fill="none" stroke="#a78bfa" stroke-opacity=".18"/>
-    <circle cx="0" cy="0" r="8" fill="#67e8f9"/>
-    <circle cx="-45" cy="-20" r="5" fill="#60a5fa"/><circle cx="43" cy="-28" r="5" fill="#a78bfa"/>
-    <circle cx="35" cy="35" r="5" fill="#22d3ee"/><circle cx="-36" cy="38" r="5" fill="#60a5fa"/>
-    <path d="M0 0L-45 -20M0 0L43 -28M0 0L35 35M0 0L-36 38" stroke="#67e8f9" stroke-opacity=".3"/>
-  </g>
-
-  <text x="930" y="152" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">FOCUS</text>
-  <text x="930" y="178" fill="#e0f2fe" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">AI &amp; DATA SCIENCE</text>
-  <text x="930" y="205" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="13">Research • Engineering • Applied ML</text>
+  <text x="620" y="259" fill="#8b949e" font-family="monospace" font-size="12">status:</text>
+  <text x="680" y="259" fill="#7ee787" font-family="monospace" font-size="12">researching • building • learning</text>
 </svg>
