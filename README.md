@@ -249,7 +249,11 @@ Abasyn University, Peshawar
 ## 📈 Contribution Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadUrRehman07&bg_color=ffffff&color=203A43&line=2C5364&point=0F2027&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="GitHub activity graph" />
+  <img src="./profile/activity-graph.svg" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <sub>Updated automatically every 12 hours by GitHub Actions.</sub>
 </p>
 
 ---
