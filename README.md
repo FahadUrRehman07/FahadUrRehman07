@@ -5,12 +5,56 @@
   <img src="./profile/hero.svg?v=2" width="100%" alt="Fahad Ur Rehman animated AI and Data Science hero banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&pause=900&color=2C5364&center=true&vCenter=true&width=820&height=45&lines=Data+Scientist+%7C+Machine+Learning+%7C+AI;NLP+%7C+Deep+Learning+%7C+Computer+Vision;LLMs+%7C+AI+Agents+%7C+Data+Driven+Systems" alt="Animated professional tagline" />
-</p>
+<table>
+<tr>
+<td width="34%" valign="top">
+
+### 👋 Profile
+
+**Data Scientist** focused on practical AI and data-driven systems.
+
+📍 Peshawar, Pakistan  
+🎓 B.Sc. Computer Science  
+💼 Data Science / ML / DL  
+🔬 Research-oriented AI development
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Core Focus
+
+- Machine Learning
+- Deep Learning
+- NLP & LLMs
+- Computer Vision
+- AI Agents
+- Data Analysis & Visualization
+
+**Workflow:**  
+Explore → Model → Evaluate → Deploy
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Current Direction
+
+Building a stronger research foundation in:
+
+**AI · ML · NLP · LLMs · Multi-Agent Systems**
+
+Interested in reproducible experiments, practical AI applications, and research-driven development.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="./profile/intro-card.svg?v=3" width="100%" alt="Fahad Ur Rehman professional Data Scientist profile card" />
+  <a href="https://github.com/FahadUrRehman07">
+    <img src="https://komarev.com/ghpvc/?username=FahadUrRehman07&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/FahadUrRehman07?tab=followers">
+    <img src="https://img.shields.io/github/followers/FahadUrRehman07?label=FOLLOWERS&color=203a43&style=for-the-badge" alt="GitHub followers" />
+  </a>
 </p>
 
 <p align="center">
