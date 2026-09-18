@@ -13,7 +13,7 @@
 
 **Data Scientist** focused on practical AI and data-driven systems.
 
-📍 Peshawar, Pakistan  
+📍 Islamabad, Pakistan  
 🎓 B.Sc. Computer Science  
 💼 Data Science / ML / DL  
 🔬 Research-oriented AI development
