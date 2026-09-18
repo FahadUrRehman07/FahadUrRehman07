@@ -10,35 +10,36 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FahadUrRehman07">
-    <img src="https://komarev.com/ghpvc/?username=FahadUrRehman07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/FahadUrRehman07?tab=followers">
-    <img src="https://img.shields.io/github/followers/FahadUrRehman07?label=Followers&style=for-the-badge&color=203A43" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/FahadUrRehman07?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-2C5364?style=for-the-badge" alt="Focus AI and Data Science" />
-  </a>
+  <img src="./profile/intro-card.svg?v=1" width="100%" alt="Fahad Ur Rehman professional Data Scientist profile card" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Fahad Ur Rehman</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&color=2C5364&center=true&vCenter=true&width=850&height=55&lines=Data+Scientist+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%7C+Computer+Vision+%7C+LLMs;Building+practical+AI+systems+from+data;Turning+ideas+into+models%2C+insights%2C+and+applications" alt="Animated typing introduction" />
+  <a href="https://github.com/FahadUrRehman07">
+    <img src="https://komarev.com/ghpvc/?username=FahadUrRehman07&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/FahadUrRehman07?tab=followers">
+    <img src="https://img.shields.io/github/followers/FahadUrRehman07?label=FOLLOWERS&color=203a43&style=for-the-badge" alt="GitHub followers" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-rehman-datascience/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/fahadrehman07">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:fahadrehmann07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/FahadUrRehman07?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
 </p>
 
+<p align="center">
+  <sub>◈ DATA • MODELS • INTELLIGENCE ◈</sub>
+</p>
 ---
 
 ## 🧠 About Me
