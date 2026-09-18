@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Fahad Ur Rehman — Data Scientist, Machine Learning and AI</title>
+  <desc id="desc">Animated professional GitHub profile hero banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071A21">
+        <animate attributeName="stop-color" values="#071A21;#0B2530;#071A21" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="52%" stop-color="#173B49">
+        <animate attributeName="stop-color" values="#173B49;#20566A;#173B49" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2C5364">
+        <animate attributeName="stop-color" values="#2C5364;#3A7286;#2C5364" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8BE9FD" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8BE9FD" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#8BE9FD" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <clipPath id="round">
+      <rect width="1200" height="330" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+
+    <circle cx="1010" cy="65" r="95" fill="#69D2E7" opacity=".08" filter="url(#softGlow)">
+      <animate attributeName="r" values="80;115;80" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".04;.11;.04" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="175" cy="285" r="110" fill="#8BE9FD" opacity=".06" filter="url(#softGlow)">
+      <animate attributeName="r" values="100;130;100" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <g opacity=".75">
+      <circle cx="930" cy="245" r="3" fill="#B8F2FF">
+        <animate attributeName="cy" values="245;215;245" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1035" cy="120" r="2.5" fill="#B8F2FF">
+        <animate attributeName="cy" values="120;95;120" dur="2.7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".15;.9;.15" dur="2.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="275" cy="75" r="2.5" fill="#B8F2FF">
+        <animate attributeName="cy" values="75;52;75" dur="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".15;.8;.15" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <path d="M-80 280 C180 205 320 350 575 270 S1000 180 1280 245" fill="none" stroke="#8BE9FD" stroke-opacity=".15" stroke-width="2">
+      <animate attributeName="d" values="M-80 280 C180 205 320 350 575 270 S1000 180 1280 245;M-80 300 C180 235 330 325 575 250 S1000 205 1280 225;M-80 280 C180 205 320 350 575 270 S1000 180 1280 245" dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF">
+      <text x="600" y="122" font-size="54" font-weight="700" letter-spacing="1">
+        FAHAD UR REHMAN
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.25;1" dur="2.2s" fill="freeze"/>
+      </text>
+      <text x="600" y="163" font-size="20" font-weight="500" fill="#B8F2FF" letter-spacing="3">
+        DATA SCIENTIST  •  MACHINE LEARNING  •  AI
+        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.4;1" dur="2.6s" fill="freeze"/>
+      </text>
+      <text x="600" y="207" font-size="15" fill="#E8F8FC" opacity=".82">
+        NLP  •  DEEP LEARNING  •  COMPUTER VISION  •  LLMs  •  AI AGENTS
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.35;.7;1" dur="3s" fill="freeze"/>
+      </text>
+    </g>
+
+    <rect x="290" y="235" width="620" height="2" rx="1" fill="url(#glow)">
+      <animate attributeName="x" values="290;340;290" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="620;520;620" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(600 270)" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
+      <rect x="-184" y="-18" width="368" height="36" rx="18" fill="#FFFFFF" fill-opacity=".07" stroke="#B8F2FF" stroke-opacity=".25"/>
+      <text y="6" font-size="13" fill="#DDF8FF" letter-spacing="1.2">
+        BUILDING PRACTICAL AI FROM DATA
+        <animate attributeName="fill-opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <rect x=".75" y=".75" width="1198.5" height="328.5" rx="28" fill="none" stroke="#8BE9FD" stroke-opacity=".22" stroke-width="1.5"/>
+</svg>
