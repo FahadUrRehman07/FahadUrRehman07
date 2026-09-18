@@ -188,8 +188,8 @@ Data analysis project exploring agricultural production and optimization.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent" height="180" alt="Fahad's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadUrRehman07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FahadUrRehman07&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=86400" height="180" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -249,7 +249,7 @@ Abasyn University, Peshawar
 ## 📈 Contribution Pulse
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadUrRehman07&bg_color=ffffff&color=203A43&line=2C5364&point=0F2027&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadUrRehman07&bg_color=ffffff&color=203A43&line=2C5364&point=0F2027&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="GitHub activity graph" />
 </p>
 
 ---
