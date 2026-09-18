@@ -1,80 +1,204 @@
-# Hi, I'm Fahad Ur Rehman 👋
 
-### Data Scientist | Machine Learning | Deep Learning | NLP | AI
+<!-- ===================== HERO ===================== -->
 
-I’m a Data Scientist with hands-on experience building machine learning, deep learning, NLP, and data-driven applications. My work spans predictive modeling, computer vision, recommendation systems, exploratory data analysis, and AI-powered solutions.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Fahad%20Ur%20Rehman&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=61&descSize=18" alt="Fahad Ur Rehman animated header" />
+</p>
 
-I enjoy turning raw data into reliable models, useful insights, and practical systems.
+<p align="center">
+  <a href="https://github.com/FahadUrRehman07">
+    <img src="https://komarev.com/ghpvc/?username=FahadUrRehman07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/FahadUrRehman07?tab=followers">
+    <img src="https://img.shields.io/github/followers/FahadUrRehman07?label=Followers&style=for-the-badge&color=203A43" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/FahadUrRehman07?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data%20Science-2C5364?style=for-the-badge" alt="Focus AI and Data Science" />
+  </a>
+</p>
 
----
+<h1 align="center">Hi 👋, I'm Fahad Ur Rehman</h1>
 
-## 🧠 Core Skills
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1100&color=2C5364&center=true&vCenter=true&width=850&height=55&lines=Data+Scientist+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%7C+Computer+Vision+%7C+LLMs;Building+practical+AI+systems+from+data;Turning+ideas+into+models%2C+insights%2C+and+applications" alt="Animated typing introduction" />
+</p>
 
-**Languages & Data**
-- Python
-- SQL
-- Pandas, NumPy
-- Data Cleaning & Feature Engineering
-- Exploratory Data Analysis (EDA)
-
-**Machine Learning**
-- Scikit-learn
-- Regression & Classification
-- Random Forest, SVM, Logistic Regression
-- Model Evaluation & Optimization
-
-**Deep Learning & AI**
-- TensorFlow / Keras
-- Neural Networks
-- CNNs
-- NLP
-- Sentiment & Emotion Analysis
-- LLMs and AI Agents
-
-**Visualization & Analytics**
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-
-**Tools**
-- Git & GitHub
-- Jupyter
-- Google Colab
-- Anaconda / Conda
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-rehman-datascience/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/fahadrehman07">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:fahadrehmann07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 About Me
 
-### 🎬 StarGazer — Movie Recommendation System
-Genre-specific recommendation system combining sentiment and emotion analysis with machine learning/deep learning techniques.
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm a **Data Scientist** focused on building practical solutions across:
+
+- 🤖 Machine Learning & Predictive Modeling
+- 🧠 Deep Learning & Neural Networks
+- 💬 NLP, Sentiment & Emotion Analysis
+- 👁️ Computer Vision
+- ✨ LLMs & AI-Agent Concepts
+- 📊 Data Analysis, Visualization & Feature Engineering
+
+I enjoy taking a problem from **raw data → exploration → modeling → evaluation → application**.
+
+**Current direction:** strengthening my research foundation in **AI, ML, NLP, LLMs and multi-agent systems** while building reproducible, portfolio-ready projects.
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://github.com/FahadUrRehman07.png" width="190" alt="Fahad Ur Rehman GitHub avatar" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Role-Data%20Scientist-203A43?style=flat-square" alt="Data Scientist" />
+<img src="https://img.shields.io/badge/Domain-Artificial%20Intelligence-2C5364?style=flat-square" alt="Artificial Intelligence" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,sql&perline=8&theme=light" alt="Python TensorFlow PyTorch Scikit-learn OpenCV Pandas NumPy SQL" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,anaconda,flask,html,css,vscode&perline=8&theme=light" alt="Git GitHub Jupyter Anaconda Flask HTML CSS VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 StarGazer
+**Genre-Specific Movie Recommendation System**
+
+Recommendation system combining movie information with **sentiment and emotion analysis**.
 
 **Focus:** NLP · Recommendation Systems · Sentiment Analysis · Emotion Analysis · Explainable AI
 
-### 🖼️ Image Classification with CNN
-A CIFAR-10 image-classification study comparing a fully connected ANN baseline with a convolutional neural network.
+<a href="https://github.com/FahadUrRehman07/StarGazer-Movies-Recommendar-System-Using-Emotion-and-Sentiment-Analysis">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View StarGazer project" />
+</a>
 
-**Focus:** Computer Vision · CNNs · TensorFlow · Model Evaluation
+</td>
+<td width="50%" valign="top">
 
-### 🏸 Badminton Game Analysis
-Data-driven analysis project focused on extracting insights from badminton game data.
+### 🖼️ CNN Image Classification
+**Image Classification Using CNN**
 
-**Focus:** Data Analysis · Visualization · Statistical Insights
+Computer-vision study comparing neural-network approaches for image classification.
 
-### 💼 Data Science Salary Prediction
-End-to-end salary prediction project covering data collection, cleaning, feature engineering, machine learning, evaluation, and Flask-based API deployment.
+**Focus:** Computer Vision · CNN · TensorFlow · Model Evaluation
+
+<a href="https://github.com/FahadUrRehman07/Image-Classification-using-CNN">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View CNN project" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Salary Prediction
+**Data Science Salary Prediction**
+
+End-to-end workflow covering collection, cleaning, EDA, feature engineering, ML modeling and Flask API deployment.
 
 **Focus:** ML · Feature Engineering · Web Scraping · Flask
 
-### 🚀 SpaceX Falcon 9 Landing Prediction
-Data science capstone project predicting successful Falcon 9 first-stage landings using the complete data-science workflow.
+<a href="https://github.com/FahadUrRehman07/ds_Salary_proj">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View salary prediction project" />
+</a>
 
-**Focus:** Data Collection · EDA · SQL · Machine Learning · Visualization
+</td>
+<td width="50%" valign="top">
+
+### 🚀 SpaceX Falcon 9
+**Landing Prediction**
+
+IBM Data Science capstone applying data collection, EDA, SQL, visualization and machine learning.
+
+**Focus:** Data Science · SQL · EDA · Machine Learning · Visualization
+
+<a href="https://github.com/FahadUrRehman07/IBM-DS-SpaceX-Final-Project">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View SpaceX project" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏸 Badminton Analysis
+Data-driven analysis and visualization of badminton game data.
+
+**Focus:** EDA · Data Analysis · Visualization · Insights
+
+<a href="https://github.com/FahadUrRehman07/Badminton-Game-Analysis">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Badminton project" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Agricultural Optimization
+Data analysis project exploring agricultural production and optimization.
+
+**Focus:** Data Analysis · Visualization · Optimization
+
+<a href="https://github.com/FahadUrRehman07/Optimize_Agricultural_Production">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View agriculture project" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent" height="180" alt="Fahad's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadUrRehman07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 💼 Experience
 
 **Data Scientist — SleepLiveWell**  
 October 2024 – March 2025
@@ -94,7 +218,13 @@ Abasyn University, Peshawar
 
 ---
 
-## 🏆 Certifications & Projects
+## 🏆 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" />
+  <img src="https://img.shields.io/badge/IBM-Machine%20Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Machine Learning" />
+  <img src="https://img.shields.io/badge/Focus-Research%20%26%20AI-2C5364?style=for-the-badge" alt="Research and AI" />
+</p>
 
 - IBM Data Science professional learning
 - IBM Machine Learning professional learning
@@ -105,22 +235,43 @@ Abasyn University, Peshawar
 
 ## 🔬 Research Interests
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Large Language Models
-- Multi-Agent AI Systems
-- Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-203A43?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-203A43?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-203A43?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-203A43?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/LLMs-203A43?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20AI-203A43?style=for-the-badge" alt="Multi-Agent AI" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Pulse
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fahad-rehman-datascience/)
-- 📊 [Kaggle](https://www.kaggle.com/fahadrehman07)
-- 📧 Email: fahadrehmann07@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadUrRehman07&bg_color=ffffff&color=203A43&line=2C5364&point=0F2027&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
 
 ---
 
-> **Building practical AI systems from data, one project at a time.**
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-rehman-datascience/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fahad%20Ur%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/fahadrehman07">
+    <img src="https://img.shields.io/badge/Kaggle-fahadrehman07-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:fahadrehmann07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-fahadrehmann07-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building practical AI systems from data, one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn" alt="Animated footer" />
+</p>
