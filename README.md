@@ -57,14 +57,6 @@ Interested in reproducible experiments, practical AI applications, and research-
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/FahadUrRehman07">
-    <img src="https://komarev.com/ghpvc/?username=FahadUrRehman07&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/FahadUrRehman07?tab=followers">
-    <img src="https://img.shields.io/github/followers/FahadUrRehman07?label=FOLLOWERS&color=203a43&style=for-the-badge" alt="GitHub followers" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-rehman-datascience/">
