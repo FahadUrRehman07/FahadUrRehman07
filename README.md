@@ -228,25 +228,20 @@ Data analysis project exploring agricultural production and optimization.
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-<tr>
-<td width="42%" valign="top" align="center">
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FahadUrRehman07&layout=compact&hide=Jupyter%20Notebook&hide_border=true&langs_count=8&theme=transparent&cache_seconds=86400" height="180" alt="Most used programming languages excluding Jupyter Notebook classification" />
+</p>
 
-<img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
+<p align="center">
+  <strong>🐍 Jupyter Notebook Code: Python 100%</strong>
+</p>
 
-</td>
-<td width="58%" valign="top">
+<p align="center">
+  <sub>Every Jupyter notebook in my portfolio is written in Python. SQL is used for data querying, while Flask and Streamlit are used for application and deployment workflows.</sub>
+</p>
 
-### 🐍 Languages & Tools
-
-**Jupyter notebooks:**  
-<img src="https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 100 percent" />
-
-<br>
-
-**Also used across projects:**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -256,7 +251,7 @@ Data analysis project exploring agricultural production and optimization.
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
@@ -265,10 +260,6 @@ Data analysis project exploring agricultural production and optimization.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
