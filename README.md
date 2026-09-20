@@ -228,53 +228,26 @@ Data analysis project exploring agricultural production and optimization.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
-</p>
-
-### 💻 Technology Usage
-
-<p align="center">
-  <strong>Python powers 100% of the code inside my Jupyter notebooks.</strong>
-</p>
-
 <table align="center">
 <tr>
-<th>Technology</th>
-<th>Usage</th>
-<th>Basis</th>
-</tr>
-| **Python / Jupyter** | `100%` | Jupyter notebook code |
-| **Pandas** | `91.7%` | 11 / 12 public project repos |
-| **NumPy** | `91.7%` | 11 / 12 public project repos |
-| **Scikit-learn** | `83.3%` | 10 / 12 public project repos |
-| **Matplotlib** | `83.3%` | 10 / 12 public project repos |
-| **Jupyter** | `83.3%` | 10 / 12 public project repos |
-| **Seaborn** | `75.0%` | 9 / 12 public project repos |
-| **Google Colab** | `58.3%` | 7 / 12 public project repos |
-| **HTML** | `50.0%` | 6 / 12 public project repos |
-| **SHAP** | `58.3%` | 7 / 12 public project repos |
-| **CSS** | `25.0%` | 3 / 12 public project repos |
-| **Flask** | `25.0%` | 3 / 12 public project repos |
-| **TensorFlow** | `16.7%` | 2 / 12 public project repos |
-| **Power BI** | `16.7%` | 2 / 12 public project repos |
-| **SQL** | `8.3%` | 1 / 12 public project repos |
-| **PyTorch** | `8.3%` | 1 / 12 public project repos |
-| **Keras** | `8.3%` | 1 / 12 public project repos |
-| **LIME** | `8.3%` | 1 / 12 public project repos |
-| **Selenium** | `8.3%` | 1 / 12 public project repos |
-| **YAML** | `8.3%` | 1 / 12 public project repos |
-| **Git / GitHub** | `100%` | all public portfolio repos |
-| **Streamlit** | `0%` | not detected in current public GitHub repos |
-| **OpenCV** | `0%` | not detected in current public GitHub repos |
-| **Tableau** | `0%` | not detected in current public GitHub repos |
-</table>
+<td width="50%" valign="top" align="center">
 
-> **Usage metric:** percentages are based on coverage across the 12 public project repositories currently on my GitHub profile. Python/Jupyter is shown separately at **100%** because the notebook code itself is Python. A 0% public-repository value means the technology is not currently detectable in those public repositories; it does not mean I have never used it.
+<img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="./profile/tech-usage.svg?v=1" width="100%" alt="Percentage-based technology usage" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
+
+> **Percentage basis:** technology percentages are portfolio-coverage figures across the 12 public project repositories currently on the profile. GitHub's Linguist can classify Jupyter notebooks separately from the Python code inside them, so the notebook row explicitly reports **Python / Jupyter = 100%** rather than using the misleading Jupyter-only language classification. citeturn252023search0turn676330search4
 
 ---
 
