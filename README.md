@@ -228,10 +228,30 @@ Data analysis project exploring agricultural production and optimization.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FahadUrRehman07&layout=compact&hide_border=true&langs_count=8&theme=transparent&cache_seconds=86400" height="180" alt="Most used languages" />
-</p>
+<table align="center">
+<tr>
+<td width="55%" valign="top" align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
+
+</td>
+<td width="45%" valign="top" align="center">
+
+### 🐍 Notebook Language
+
+<img src="https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 100 percent" />
+
+<br><br>
+
+**Python — 100%**
+
+<br>
+
+<sub>All Jupyter notebooks in my portfolio use Python for their code.</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
