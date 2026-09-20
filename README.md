@@ -230,36 +230,47 @@ Data analysis project exploring agricultural production and optimization.
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FahadUrRehman07&layout=compact&hide=Jupyter%20Notebook&hide_border=true&langs_count=8&theme=transparent&cache_seconds=86400" height="180" alt="Most used programming languages excluding Jupyter Notebook classification" />
 </p>
 
-<p align="center">
-  <strong>🐍 Jupyter Notebook Code: Python 100%</strong>
-</p>
+### 💻 Technology Usage
 
 <p align="center">
-  <sub>Every Jupyter notebook in my portfolio is written in Python. SQL is used for data querying, while Flask and Streamlit are used for application and deployment workflows.</sub>
+  <strong>Python powers 100% of the code inside my Jupyter notebooks.</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
+<table align="center">
+<tr>
+<th>Technology</th>
+<th>Usage</th>
+<th>Basis</th>
+</tr>
+| **Python / Jupyter** | `100%` | Jupyter notebook code |
+| **Pandas** | `91.7%` | 11 / 12 public project repos |
+| **NumPy** | `91.7%` | 11 / 12 public project repos |
+| **Scikit-learn** | `83.3%` | 10 / 12 public project repos |
+| **Matplotlib** | `83.3%` | 10 / 12 public project repos |
+| **Jupyter** | `83.3%` | 10 / 12 public project repos |
+| **Seaborn** | `75.0%` | 9 / 12 public project repos |
+| **Google Colab** | `58.3%` | 7 / 12 public project repos |
+| **HTML** | `50.0%` | 6 / 12 public project repos |
+| **SHAP** | `58.3%` | 7 / 12 public project repos |
+| **CSS** | `25.0%` | 3 / 12 public project repos |
+| **Flask** | `25.0%` | 3 / 12 public project repos |
+| **TensorFlow** | `16.7%` | 2 / 12 public project repos |
+| **Power BI** | `16.7%` | 2 / 12 public project repos |
+| **SQL** | `8.3%` | 1 / 12 public project repos |
+| **PyTorch** | `8.3%` | 1 / 12 public project repos |
+| **Keras** | `8.3%` | 1 / 12 public project repos |
+| **LIME** | `8.3%` | 1 / 12 public project repos |
+| **Selenium** | `8.3%` | 1 / 12 public project repos |
+| **YAML** | `8.3%` | 1 / 12 public project repos |
+| **Git / GitHub** | `100%` | all public portfolio repos |
+| **Streamlit** | `0%` | not detected in current public GitHub repos |
+| **OpenCV** | `0%` | not detected in current public GitHub repos |
+| **Tableau** | `0%` | not detected in current public GitHub repos |
+</table>
+
+> **Usage metric:** percentages are based on coverage across the 12 public project repositories currently on my GitHub profile. Python/Jupyter is shown separately at **100%** because the notebook code itself is Python. A 0% public-repository value means the technology is not currently detectable in those public repositories; it does not mean I have never used it.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
