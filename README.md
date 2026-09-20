@@ -247,7 +247,7 @@ Data analysis project exploring agricultural production and optimization.
   <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
-> **Percentage basis:** technology percentages are portfolio-coverage figures across the 12 public project repositories currently on the profile. GitHub's Linguist can classify Jupyter notebooks separately from the Python code inside them, so the notebook row explicitly reports **Python / Jupyter = 100%** rather than using the misleading Jupyter-only language classification. citeturn252023search0turn676330search4
+> **Percentage basis:** technology percentages are portfolio-coverage figures across the 12 public project repositories currently on the profile. GitHub's Linguist can classify Jupyter notebooks separately from the Python code inside them, so the notebook row explicitly reports **Python / Jupyter = 100%** rather than using the misleading Jupyter-only language classification.
 
 ---
 
