@@ -133,7 +133,7 @@ I enjoy taking a problem from **raw data → exploration → modeling → evalua
 
 ## 🚀 Featured Work
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -163,6 +163,9 @@ Recommendation system combining movie information with **sentiment and emotion a
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🖼️ CNN Image Classification
@@ -177,9 +180,6 @@ Computer-vision study comparing neural-network approaches for image classificati
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 💼 Salary Prediction
@@ -194,6 +194,9 @@ End-to-end workflow covering collection, cleaning, EDA, feature engineering, ML 
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🚀 SpaceX Falcon 9
@@ -208,13 +211,12 @@ IBM Data Science capstone applying data collection, EDA, SQL, visualization and 
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🏸 Badminton Analysis
-Data-driven analysis and visualization of badminton game data.
+**Data-Driven Game Analysis**
+
+Analysis and visualization of badminton game data to explore patterns and insights.
 
 **Focus:** EDA · Data Analysis · Visualization · Insights
 
@@ -223,15 +225,34 @@ Data-driven analysis and visualization of badminton game data.
 </a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🌾 Agricultural Optimization
+**Agricultural Production Analysis**
+
 Data analysis project exploring agricultural production and optimization.
 
 **Focus:** Data Analysis · Visualization · Optimization
 
 <a href="https://github.com/FahadUrRehman07/Optimize_Agricultural_Production">
 <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View agriculture project" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Salifort Motors
+**Employee Attrition Prediction**
+
+People-analytics project focused on exploring employee data and building a predictive machine-learning workflow.
+
+**Focus:** EDA · Feature Engineering · Classification · Predictive Modeling
+
+<a href="https://github.com/FahadUrRehman07/Salifort-Motors-Project">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Salifort Motors project" />
 </a>
 
 </td>
