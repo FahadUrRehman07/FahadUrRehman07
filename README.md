@@ -133,131 +133,95 @@ I enjoy taking a problem from **raw data → exploration → modeling → evalua
 
 ## 🚀 Featured Work
 
+<p align="center">
+  <sub>Selected projects across <b>Machine Learning · Deep Learning · NLP · Computer Vision · Data Science</b></sub>
+</p>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top" align="left">
 
 ### 🌸 FloraVision
-**Flower Species Classification with MobileNetV2**
+**MobileNetV2 Transfer Learning**
 
-Transfer-learning workflow using a pretrained **MobileNetV2** backbone for five-class flower image classification.
+Five-class flower image classification using a pretrained MobileNetV2 backbone.
 
-**Focus:** Computer Vision · Transfer Learning · TensorFlow · MobileNetV2
+**CV · TensorFlow · Transfer Learning**
 
-<a href="https://github.com/FahadUrRehman07/FloraVision-Flower-Species-Classification-Using-MobileNetV2-Transfer-Learning">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View FloraVision project" />
-</a>
+<a href="https://github.com/FahadUrRehman07/FloraVision-Flower-Species-Classification-Using-MobileNetV2-Transfer-Learning">View Project →</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top" align="left">
 
 ### 🎬 StarGazer
-**Genre-Specific Movie Recommendation System**
+**Emotion-Aware Movie Recommendation**
 
-Recommendation system combining movie information with **sentiment and emotion analysis**.
+Movie recommendation combining sentiment and emotion analysis with explainability.
 
-**Focus:** NLP · Recommendation Systems · Sentiment Analysis · Emotion Analysis · Explainable AI
+**NLP · Recommenders · Explainable AI**
 
-<a href="https://github.com/FahadUrRehman07/StarGazer-Movies-Recommendar-System-Using-Emotion-and-Sentiment-Analysis">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View StarGazer project" />
-</a>
+<a href="https://github.com/FahadUrRehman07/StarGazer-Movies-Recommendar-System-Using-Emotion-and-Sentiment-Analysis">View Project →</a>
+
+</td>
+<td width="33.33%" valign="top" align="left">
+
+### 🖼️ CNN Vision
+**Image Classification**
+
+Deep-learning study covering CNN-based image classification and evaluation.
+
+**CNN · TensorFlow · Computer Vision**
+
+<a href="https://github.com/FahadUrRehman07/Image-Classification-using-CNN">View Project →</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-### 🖼️ CNN Image Classification
-**Image Classification Using CNN**
-
-Computer-vision study comparing neural-network approaches for image classification.
-
-**Focus:** Computer Vision · CNN · TensorFlow · Model Evaluation
-
-<a href="https://github.com/FahadUrRehman07/Image-Classification-using-CNN">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View CNN project" />
-</a>
-
-</td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top" align="left">
 
 ### 💼 Salary Prediction
-**Data Science Salary Prediction**
+**End-to-End ML Application**
 
-End-to-end workflow covering collection, cleaning, EDA, feature engineering, ML modeling and Flask API deployment.
+Machine-learning workflow from data preparation and modeling to Flask API deployment.
 
-**Focus:** ML · Feature Engineering · Web Scraping · Flask
+**ML · Feature Engineering · Flask**
 
-<a href="https://github.com/FahadUrRehman07/ds_Salary_proj">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View salary prediction project" />
-</a>
+<a href="https://github.com/FahadUrRehman07/ds_Salary_proj">View Project →</a>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top" align="left">
 
 ### 🚀 SpaceX Falcon 9
 **Landing Prediction**
 
-IBM Data Science capstone applying data collection, EDA, SQL, visualization and machine learning.
+Data-science capstone covering data collection, SQL, EDA, visualization and ML.
 
-**Focus:** Data Science · SQL · EDA · Machine Learning · Visualization
+**SQL · EDA · ML · Visualization**
 
-<a href="https://github.com/FahadUrRehman07/IBM-DS-SpaceX-Final-Project">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View SpaceX project" />
-</a>
+<a href="https://github.com/FahadUrRehman07/IBM-DS-SpaceX-Final-Project">View Project →</a>
 
 </td>
-<td width="50%" valign="top">
-
-### 🏸 Badminton Analysis
-**Data-Driven Game Analysis**
-
-Analysis and visualization of badminton game data to explore patterns and insights.
-
-**Focus:** EDA · Data Analysis · Visualization · Insights
-
-<a href="https://github.com/FahadUrRehman07/Badminton-Game-Analysis">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Badminton project" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 Agricultural Optimization
-**Agricultural Production Analysis**
-
-Data analysis project exploring agricultural production and optimization.
-
-**Focus:** Data Analysis · Visualization · Optimization
-
-<a href="https://github.com/FahadUrRehman07/Optimize_Agricultural_Production">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View agriculture project" />
-</a>
-
-</td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top" align="left">
 
 ### 📉 Salifort Motors
 **Employee Attrition Prediction**
 
-People-analytics project focused on exploring employee data and building a predictive machine-learning workflow.
+People-analytics project exploring employee attrition with predictive modeling.
 
-**Focus:** EDA · Feature Engineering · Classification · Predictive Modeling
+**EDA · Classification · Predictive Modeling**
 
-<a href="https://github.com/FahadUrRehman07/Salifort-Motors-Project">
-<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Salifort Motors project" />
-</a>
+<a href="https://github.com/FahadUrRehman07/Salifort-Motors-Project">View Project →</a>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/FahadUrRehman07?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
+  </a>
+</p>
 
 ---
 
