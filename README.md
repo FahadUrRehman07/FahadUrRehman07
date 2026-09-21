@@ -137,6 +137,20 @@ I enjoy taking a problem from **raw data → exploration → modeling → evalua
 <tr>
 <td width="50%" valign="top">
 
+### 🌸 FloraVision
+**Flower Species Classification with MobileNetV2**
+
+Transfer-learning workflow using a pretrained **MobileNetV2** backbone for five-class flower image classification.
+
+**Focus:** Computer Vision · Transfer Learning · TensorFlow · MobileNetV2
+
+<a href="https://github.com/FahadUrRehman07/FloraVision-Flower-Species-Classification-Using-MobileNetV2-Transfer-Learning">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View FloraVision project" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎬 StarGazer
 **Genre-Specific Movie Recommendation System**
 
