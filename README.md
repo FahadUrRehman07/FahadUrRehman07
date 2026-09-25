@@ -1,52 +1,8 @@
-
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
   <img src="./profile/hero.svg?v=2" width="100%" alt="Fahad Ur Rehman animated AI and Data Science hero banner" />
 </p>
-
-<table>
-<tr>
-<td width="34%" valign="top">
-
-### 👋 Profile
-
-**Data Scientist** focused on practical AI and data-driven systems.
-
-📍 Islamabad, Pakistan  
-🎓 B.Sc. Computer Science  
-💼 Data Science / ML / DL  
-🔬 Research-oriented AI development
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Core Focus
-
-- Machine Learning
-- Deep Learning
-- NLP & LLMs
-- Computer Vision
-- AI Agents
-- Data Analysis & Visualization
-
-**Workflow:**  
-Explore → Model → Evaluate → Deploy
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Current Direction
-
-Building a stronger research foundation in:
-
-**AI · ML · NLP · LLMs · Multi-Agent Systems**
-
-Interested in reproducible experiments, practical AI applications, and research-driven development.
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/FahadUrRehman07">
@@ -56,7 +12,6 @@ Interested in reproducible experiments, practical AI applications, and research-
     <img src="https://img.shields.io/github/followers/FahadUrRehman07?label=FOLLOWERS&color=203a43&style=for-the-badge" alt="GitHub followers" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-rehman-datascience/">
@@ -76,13 +31,40 @@ Interested in reproducible experiments, practical AI applications, and research-
 <p align="center">
   <sub>◈ DATA • MODELS • INTELLIGENCE ◈</sub>
 </p>
+
+---
+
+## 👋 Profile
+
+**Data Scientist** focused on practical AI and data-driven systems.
+
+📍 Islamabad, Pakistan  
+🎓 B.Sc. Computer Science  
+💼 Data Science · Machine Learning · Deep Learning  
+🔬 Research-oriented AI development
+
+### 🧠 Core Focus
+
+- Machine Learning
+- Deep Learning
+- NLP & LLMs
+- Computer Vision
+- AI Agents
+- Data Analysis & Visualization
+
+**Workflow:** Explore → Model → Evaluate → Deploy
+
+### 🚀 Current Direction
+
+Building a stronger research foundation in:
+
+**AI · ML · NLP · LLMs · Multi-Agent Systems**
+
+Interested in reproducible experiments, practical AI applications, and research-driven development.
+
 ---
 
 ## 🧠 About Me
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 I'm a **Data Scientist** focused on building practical solutions across:
 
@@ -97,30 +79,25 @@ I enjoy taking a problem from **raw data → exploration → modeling → evalua
 
 **Current direction:** strengthening my research foundation in **AI, ML, NLP, LLMs and multi-agent systems** while building reproducible, portfolio-ready projects.
 
-</td>
-<td width="42%" align="center">
+<p align="center">
+  <img src="https://github.com/FahadUrRehman07.png" width="160" alt="Fahad Ur Rehman GitHub avatar" />
+</p>
 
-<img src="https://github.com/FahadUrRehman07.png" width="190" alt="Fahad Ur Rehman GitHub avatar" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Role-Data%20Scientist-203A43?style=flat-square" alt="Data Scientist" />
-<img src="https://img.shields.io/badge/Domain-Artificial%20Intelligence-2C5364?style=flat-square" alt="Artificial Intelligence" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist-203A43?style=flat-square" alt="Data Scientist" />
+  <img src="https://img.shields.io/badge/Domain-Artificial%20Intelligence-2C5364?style=flat-square" alt="Artificial Intelligence" />
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,sql&perline=8&theme=light" alt="Python TensorFlow PyTorch Scikit-learn OpenCV Pandas NumPy SQL" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,sql&perline=4&theme=light" alt="Python TensorFlow PyTorch Scikit-learn OpenCV Pandas NumPy SQL" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,anaconda,flask,html,css,vscode&perline=8&theme=light" alt="Git GitHub Jupyter Anaconda Flask HTML CSS VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,anaconda,flask,html,css,vscode&perline=4&theme=light" alt="Git GitHub Jupyter Anaconda Flask HTML CSS VS Code" />
 </p>
 
 <p align="center">
@@ -133,14 +110,6 @@ I enjoy taking a problem from **raw data → exploration → modeling → evalua
 
 ## 🚀 Featured Work
 
-<p align="center">
-  <sub>Selected projects across <b>Machine Learning · Deep Learning · NLP · Computer Vision · Data Science</b></sub>
-</p>
-
-<table width="100%">
-<tr>
-<td width="33.33%" valign="top" align="left">
-
 ### 🌸 FloraVision
 **MobileNetV2 Transfer Learning**
 
@@ -149,9 +118,6 @@ Five-class flower image classification using a pretrained MobileNetV2 backbone.
 **CV · TensorFlow · Transfer Learning**
 
 <a href="https://github.com/FahadUrRehman07/FloraVision-Flower-Species-Classification-Using-MobileNetV2-Transfer-Learning">View Project →</a>
-
-</td>
-<td width="33.33%" valign="top" align="left">
 
 ### 🎬 StarGazer
 **Emotion-Aware Movie Recommendation**
@@ -162,9 +128,6 @@ Movie recommendation combining sentiment and emotion analysis with explainabilit
 
 <a href="https://github.com/FahadUrRehman07/StarGazer-Movies-Recommendar-System-Using-Emotion-and-Sentiment-Analysis">View Project →</a>
 
-</td>
-<td width="33.33%" valign="top" align="left">
-
 ### 🖼️ CNN Vision
 **Image Classification**
 
@@ -173,12 +136,6 @@ Deep-learning study covering CNN-based image classification and evaluation.
 **CNN · TensorFlow · Computer Vision**
 
 <a href="https://github.com/FahadUrRehman07/Image-Classification-using-CNN">View Project →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="33.33%" valign="top" align="left">
 
 ### 💼 Salary Prediction
 **End-to-End ML Application**
@@ -189,9 +146,6 @@ Machine-learning workflow from data preparation and modeling to Flask API deploy
 
 <a href="https://github.com/FahadUrRehman07/ds_Salary_proj">View Project →</a>
 
-</td>
-<td width="33.33%" valign="top" align="left">
-
 ### 🚀 SpaceX Falcon 9
 **Landing Prediction**
 
@@ -201,9 +155,6 @@ Data-science capstone covering data collection, SQL, EDA, visualization and ML.
 
 <a href="https://github.com/FahadUrRehman07/IBM-DS-SpaceX-Final-Project">View Project →</a>
 
-</td>
-<td width="33.33%" valign="top" align="left">
-
 ### 📉 Salifort Motors
 **Employee Attrition Prediction**
 
@@ -212,10 +163,6 @@ People-analytics project exploring employee attrition with predictive modeling.
 **EDA · Classification · Predictive Modeling**
 
 <a href="https://github.com/FahadUrRehman07/Salifort-Motors-Project">View Project →</a>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
   <a href="https://github.com/FahadUrRehman07?tab=repositories">
@@ -227,23 +174,16 @@ People-analytics project exploring employee attrition with predictive modeling.
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-<tr>
-<td width="50%" valign="top" align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" height="180" alt="Fahad's GitHub statistics" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="./profile/tech-usage.svg?v=1" width="100%" alt="Percentage-based technology usage" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=FahadUrRehman07&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github&theme=transparent&cache_seconds=86400" width="100%" alt="Fahad's GitHub statistics" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="./profile/tech-usage.svg?v=1" width="100%" alt="Percentage-based technology usage" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=FahadUrRehman07&hide_border=true&theme=transparent" width="100%" alt="GitHub contribution streak" />
 </p>
 
 > **Percentage basis:** technology percentages are portfolio-coverage figures across the 12 public project repositories currently on the profile. GitHub's Linguist can classify Jupyter notebooks separately from the Python code inside them, so the notebook row explicitly reports **Python / Jupyter = 100%** rather than using the misleading Jupyter-only language classification.
@@ -301,11 +241,11 @@ Abasyn University, Peshawar
 ## 📈 Contribution Pulse
 
 <p align="center">
-  <img src="./profile/activity-graph.svg" alt="GitHub activity graph" />
+  <img src="./profile/activity-graph.svg?v=2" width="100%" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
-  <sub>Updated automatically every 12 hours by GitHub Actions.</sub>
+  <sub>Updated automatically every hour by GitHub Actions.</sub>
 </p>
 
 ---
@@ -329,5 +269,5 @@ Abasyn University, Peshawar
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn" alt="Animated footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer" />
 </p>
