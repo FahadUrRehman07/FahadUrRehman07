@@ -298,6 +298,18 @@ Abasyn University, Peshawar
 
 ---
 
+## 📈 Contribution Pulse
+
+<p align="center">
+  <img src="./profile/activity-graph.svg" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <sub>Updated automatically every 12 hours by GitHub Actions.</sub>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
