@@ -1,94 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Fahad Ur Rehman — Data Scientist, Machine Learning and AI</title>
-  <desc id="desc">Animated professional GitHub profile hero banner.</desc>
+  <desc id="desc">Animated AI and machine learning profile banner with an abstract neural network.</desc>
+
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#071A21">
-        <animate attributeName="stop-color" values="#071A21;#0B2530;#071A21" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#07161C"/>
+      <stop offset="55%" stop-color="#123744">
+        <animate attributeName="stop-color" values="#123744;#184A5B;#123744" dur="9s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="52%" stop-color="#173B49">
-        <animate attributeName="stop-color" values="#173B49;#20566A;#173B49" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#2C5364">
-        <animate attributeName="stop-color" values="#2C5364;#3A7286;#2C5364" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#204E60">
+        <animate attributeName="stop-color" values="#204E60;#2D667A;#204E60" dur="9s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8BE9FD" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#8BE9FD" stop-opacity=".9"/>
+
+    <radialGradient id="halo">
+      <stop offset="0%" stop-color="#8BE9FD" stop-opacity=".28"/>
+      <stop offset="65%" stop-color="#8BE9FD" stop-opacity=".06"/>
       <stop offset="100%" stop-color="#8BE9FD" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8BE9FD" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8BE9FD" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#B8A8FF" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/>
     </pattern>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="12"/>
+
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16"/>
     </filter>
-    <clipPath id="round">
-      <rect width="1200" height="330" rx="28"/>
+
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1200" height="360" rx="28"/>
     </clipPath>
   </defs>
 
-  <g clip-path="url(#round)">
-    <rect width="1200" height="330" fill="url(#bg)"/>
-    <rect width="1200" height="330" fill="url(#grid)"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
 
-    <circle cx="1010" cy="65" r="95" fill="#69D2E7" opacity=".08" filter="url(#softGlow)">
-      <animate attributeName="r" values="80;115;80" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".04;.11;.04" dur="5s" repeatCount="indefinite"/>
+    <ellipse cx="940" cy="165" rx="250" ry="215" fill="url(#halo)">
+      <animate attributeName="rx" values="220;285;220" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="ry" values="190;235;190" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <circle cx="1120" cy="42" r="100" fill="#8BE9FD" opacity=".05" filter="url(#blur)">
+      <animate attributeName="r" values="85;125;85" dur="6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="175" cy="285" r="110" fill="#8BE9FD" opacity=".06" filter="url(#softGlow)">
-      <animate attributeName="r" values="100;130;100" dur="6s" repeatCount="indefinite"/>
-    </circle>
 
-    <g opacity=".75">
-      <circle cx="930" cy="245" r="3" fill="#B8F2FF">
-        <animate attributeName="cy" values="245;215;245" dur="3.2s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values=".2;1;.2" dur="3.2s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1035" cy="120" r="2.5" fill="#B8F2FF">
-        <animate attributeName="cy" values="120;95;120" dur="2.7s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values=".15;.9;.15" dur="2.7s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="275" cy="75" r="2.5" fill="#B8F2FF">
-        <animate attributeName="cy" values="75;52;75" dur="3.6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values=".15;.8;.15" dur="3.6s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-
-    <path d="M-80 280 C180 205 320 350 575 270 S1000 180 1280 245" fill="none" stroke="#8BE9FD" stroke-opacity=".15" stroke-width="2">
-      <animate attributeName="d" values="M-80 280 C180 205 320 350 575 270 S1000 180 1280 245;M-80 300 C180 235 330 325 575 250 S1000 205 1280 225;M-80 280 C180 205 320 350 575 270 S1000 180 1280 245" dur="9s" repeatCount="indefinite"/>
+    <path d="M-80 305 C180 220 330 365 565 285 S990 190 1280 248"
+          fill="none" stroke="url(#lineGlow)" stroke-width="2" opacity=".7">
+      <animate attributeName="d"
+        values="M-80 305 C180 220 330 365 565 285 S990 190 1280 248;
+                M-80 322 C180 250 330 338 565 267 S990 218 1280 232;
+                M-80 305 C180 220 330 365 565 285 S990 190 1280 248"
+        dur="10s" repeatCount="indefinite"/>
     </path>
 
-    <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" fill="#FFFFFF">
-      <text x="600" y="122" font-size="54" font-weight="700" letter-spacing="1">
+    <!-- Left content -->
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="74" y="112" fill="#FFFFFF" font-size="48" font-weight="700" letter-spacing="1.3">
         FAHAD UR REHMAN
-        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.25;1" dur="2.2s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;.25;1;1" keyTimes="0;.18;.42;1" dur="2.4s" fill="freeze"/>
       </text>
-      <text x="600" y="163" font-size="20" font-weight="500" fill="#B8F2FF" letter-spacing="3">
+
+      <text x="76" y="151" fill="#B8F2FF" font-size="20" font-weight="600" letter-spacing="2.6">
         DATA SCIENTIST  •  MACHINE LEARNING  •  AI
-        <animate attributeName="opacity" values="0;1;1" keyTimes="0;.4;1" dur="2.6s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.28;.62;1" dur="3s" fill="freeze"/>
       </text>
-      <text x="600" y="207" font-size="15" fill="#E8F8FC" opacity=".82">
+
+      <text x="76" y="191" fill="#E9F8FC" font-size="14.5" opacity=".88" letter-spacing="1.25">
         NLP  •  DEEP LEARNING  •  COMPUTER VISION  •  LLMs  •  AI AGENTS
-        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.35;.7;1" dur="3s" fill="freeze"/>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.35;.7;1" dur="3.2s" fill="freeze"/>
+      </text>
+
+      <g>
+        <rect x="76" y="226" width="350" height="38" rx="19" fill="#FFFFFF" fill-opacity=".075"
+              stroke="#B8F2FF" stroke-opacity=".25"/>
+        <text x="251" y="251" text-anchor="middle" fill="#DFF8FF" font-size="13" font-weight="600" letter-spacing="1.2">
+          BUILD • LEARN • DEPLOY
+          <animate attributeName="fill-opacity" values=".55;1;.55" dur="3.3s" repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <text x="76" y="305" fill="#C9EAF3" font-size="12.5" opacity=".72" letter-spacing="1.1">
+        PRACTICAL AI  /  RESEARCH-DRIVEN DEVELOPMENT
+        <animate attributeName="opacity" values=".45;.9;.45" dur="4s" repeatCount="indefinite"/>
       </text>
     </g>
 
-    <rect x="290" y="235" width="620" height="2" rx="1" fill="url(#glow)">
-      <animate attributeName="x" values="290;340;290" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="width" values="620;520;620" dur="4s" repeatCount="indefinite"/>
-    </rect>
+    <!-- Abstract neural network -->
+    <g transform="translate(910 178)">
+      <circle cx="0" cy="0" r="135" fill="none" stroke="#8BE9FD" stroke-opacity=".08" stroke-width="1">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="0" r="102" fill="none" stroke="#B8A8FF" stroke-opacity=".11" stroke-width="1" stroke-dasharray="5 9">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="18s" repeatCount="indefinite"/>
+      </circle>
 
-    <g transform="translate(600 270)" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif">
-      <rect x="-184" y="-18" width="368" height="36" rx="18" fill="#FFFFFF" fill-opacity=".07" stroke="#B8F2FF" stroke-opacity=".25"/>
-      <text y="6" font-size="13" fill="#DDF8FF" letter-spacing="1.2">
-        BUILDING PRACTICAL AI FROM DATA
-        <animate attributeName="fill-opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/>
+      <g stroke="#8BE9FD" stroke-opacity=".36" stroke-width="1.6">
+        <path d="M-105 -74 L-35 -12 L58 -72 L103 -17"/>
+        <path d="M-105 78 L-35 28 L58 66 L103 17"/>
+        <path d="M-35 -12 L-35 28"/>
+        <path d="M58 -72 L58 66"/>
+        <path d="M-35 28 L58 -72"/>
+        <path d="M58 66 L103 -17"/>
+      </g>
+
+      <g fill="#8BE9FD" filter="url(#nodeGlow)" opacity=".55">
+        <circle cx="-105" cy="-74" r="8"/>
+        <circle cx="-35" cy="-12" r="9"/>
+        <circle cx="58" cy="-72" r="8"/>
+        <circle cx="103" cy="-17" r="8"/>
+        <circle cx="-105" cy="78" r="8"/>
+        <circle cx="-35" cy="28" r="9"/>
+        <circle cx="58" cy="66" r="8"/>
+        <circle cx="103" cy="17" r="8"/>
+        <circle cx="10" cy="0" r="12"/>
+      </g>
+
+      <g fill="#DDF9FF">
+        <circle cx="-105" cy="-74" r="3.8"/>
+        <circle cx="-35" cy="-12" r="4.5"/>
+        <circle cx="58" cy="-72" r="3.8"/>
+        <circle cx="103" cy="-17" r="3.8"/>
+        <circle cx="-105" cy="78" r="3.8"/>
+        <circle cx="-35" cy="28" r="4.5"/>
+        <circle cx="58" cy="66" r="3.8"/>
+        <circle cx="103" cy="17" r="3.8"/>
+        <circle cx="10" cy="0" r="5.5"/>
+      </g>
+
+      <circle cx="10" cy="0" r="24" fill="none" stroke="#B8F2FF" stroke-opacity=".28">
+        <animate attributeName="r" values="20;31;20" dur="3.5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values=".14;.5;.14" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+
+      <text x="10" y="5" text-anchor="middle" fill="#FFFFFF" font-size="12" font-weight="700" letter-spacing="1">
+        AI
       </text>
+
+      <g font-family="Consolas, monospace" fill="#CFF6FF" font-size="11" opacity=".72">
+        <text x="-122" y="-108">x → f(x)</text>
+        <text x="54" y="107">NLP</text>
+        <text x="-138" y="113">ML_01</text>
+        <text x="76" y="-103">CV</text>
+        <animate attributeName="opacity" values=".35;.85;.35" dur="5s" repeatCount="indefinite"/>
+      </g>
     </g>
+
+    <!-- Moving signal -->
+    <circle cx="-10" cy="286" r="4" fill="#B8F2FF">
+      <animate attributeName="cx" values="-10;1210" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.88;1" dur="7s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <rect x=".75" y=".75" width="1198.5" height="328.5" rx="28" fill="none" stroke="#8BE9FD" stroke-opacity=".22" stroke-width="1.5"/>
+  <rect x=".8" y=".8" width="1198.4" height="358.4" rx="28"
+        fill="none" stroke="#8BE9FD" stroke-opacity=".22" stroke-width="1.5"/>
 </svg>
